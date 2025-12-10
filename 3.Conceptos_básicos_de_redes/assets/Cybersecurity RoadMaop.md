@@ -1,0 +1,16 @@
+1. [Introducción a linux](https://learning.edx.org/course/course-v1:LinuxFoundationX_UPValenciaX+LF-UPV-101x+1T2025/home)
+2. [Introducción a Ciberseguridad](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=es-XL) ✅
+	[[certificado.pdf]]
+3. [Introducción a la ciberseguridad: un enfoque practico](https://learning.edx.org/course/course-v1:IDB_UC3Mx+IDB_UC3M.1x+3T2025/home)
+4. [Introducción a Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=es-XL)
+5. [Conceptos básicos de redes](https://www.netacad.com/courses/networking-basics?courseLang=es-XL)
+6. [Dispositivos de Red y configuración inicial](https://www.netacad.com/courses/networking-basics?courseLang=es-XL)
+7. [Seguridad de terminales](https://www.netacad.com/courses/endpoint-security?courseLang=es-XL)
+8. [Defensa de la red](https://www.netacad.com/courses/network-defense?courseLang=es-XL)
+9. [Carrera Profesional de Analista JR en Ciberseguridad](https://www.netacad.com/exams/cybersecurity-pathway?courseLang=es-XL)
+10. [Hacking Ético](https://www.netacad.com/courses/ethical-hacker?courseLang=es-XL)
+11. [Certificación: Cisco Certified Support Technician "CCST"](https://www.netacad.com/resources/program-info/ccst-cybersecurity?courseLang=es-XL)
+12. [Únase a Cisco Learning Network Obtenga respuestas a sus preguntas sobre CCST](https://learningnetwork.cisco.com/s/topic/0TO6e000002ei40GAA/ccst-certifications-community)
+13. [El puente entre el talento y el empleo](https://www.netacad.com/resources/talent-bridge?courseLang=es-XL)
+14. [Python Essential 1](https://www.netacad.com/courses/python-essentials-1?courseLang=es-XL)
+15. [Python Essential 2](https://www.netacad.com/courses/python-essentials-2?courseLang=es-XL)
