@@ -1,0 +1,5 @@
+- [Analista junior en cyberseguridad](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
+- [Introducción a la cyberseguridad](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)
+- [Hacking Ético](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)
+- [Fundamentos de python 1](https://www.netacad.com/launch?id=da0847b7-e6fc-4597-bc31-38ddd6b07a2e&tab=curriculum&view=93f7a3e9-b101-5b05-bd24-9cdb405fd975)
+- [Fundamentos de python 2](https://www.netacad.com/launch?id=a0ad2851-c6d4-4980-a9a7-98b3f3108166&tab=curriculum&view=925366df-98fd-512a-9ddf-aaeab366164b)

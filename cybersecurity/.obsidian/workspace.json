@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "dd5365420f711243",
+    "type": "split",
+    "children": [
+      {
+        "id": "604ba8fc5dbea56d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4a533fdd6a39b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. El proceso ARP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. El proceso ARP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14a67baebdc0e331",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4033308f537012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2d482fd4697d21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30d6989ddd926604",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd21e752e5b846ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d9a4a57b991ea9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a786f5c59c20ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c74a78f3447c1c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 12.Puertas de enlaces a otras redes"
+            }
+          },
+          {
+            "id": "e91f3d215c3945eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 12.Puertas de enlaces a otras redes"
+            }
+          },
+          {
+            "id": "7c3126f3c2c4ec22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f57c1cd53a91d0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "648875cf98f78d4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 12.Puertas de enlaces a otras redes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0d4a533fdd6a39b3",
+  "lastOpenFiles": [
+    "Pasted image 20260116182150.png",
+    "Pasted image 20260116182117.png",
+    "Pasted image 20260116182051.png",
+    "Pasted image 20260116181951.png",
+    "Pasted image 20260116174904.png",
+    "13. El proceso ARP.md",
+    "3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
+    "3.Conceptos_básicos_de_redes/11.Direccionamiento Dinámico con DHCP.md",
+    "Pasted image 20251218204402.png",
+    "Pasted image 20251218204344.png",
+    "3.Conceptos_básicos_de_redes/assets/Pasted image 20251218200713.png",
+    "3.Conceptos_básicos_de_redes/assets/Pasted image 20251218140317.png",
+    "3.Conceptos_básicos_de_redes/assets/Pasted image 20251218140220.png",
+    "3.Conceptos_básicos_de_redes/assets/Pasted image 20251218140209.png"
+  ]
+}

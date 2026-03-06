@@ -1,0 +1,76 @@
+Listado de 60 útiles Comandos de Linux para el año 2023 
+
+15 Comandos para acceder a archivos
+
+- pwd: Mostrar la ubicación del directorio donde actualmente estamos ubicados.
+- ls: Mostrar la lista de archivos y directorios contenidos dentro un directorio especificado.
+- cd: Cambiarnos del directorio actual a otro.
+- mkdir: Crear un nuevo directorio.
+- touch: Generar un nuevo archivo o cambiarle la fecha de acceso/modificación a otro.
+- cp: Copiar archivos o directorios.
+- mv: Mover archivos o directorios. Y, hasta cambiarle el nombre si fuese necesario.
+- rm: Eliminar archivos o directorios.
+- rmdir: Eliminar un único directorio, siempre y cuando este vacío.
+- cat: Mostrar el contenido de cualquier tipo de archivo en la pantalla.
+- head: Mostrar las primeras líneas de un archivo, especificando el número de líneas a mostrar.
+- tail: Mostrar las últimas líneas de un archivo, especificando el número de líneas a mostrar.
+- less: Buscar dentro del contenido de un archivo de forma interactiva.
+- more: Buscar dentro del contenido de un archivo forma interactiva.
+- grep: Buscar y visualizar cadenas de caracteres en archivos o en resultados de comandos.
+
+11 Comandos para administrar el Sistema Operativo
+
+- uname: Mostrar información sobre el SO, incluyendo el Kernel cargado en ese momento.
+- df: Mostrar información sobre el SA, las Particiones y el uso del Espacio del disco actual.
+- free: Mostrar información variada sobre la utilización de la memoria del SO gestionado.
+- top: Mostrar los procesos en ejecución, más información sobre el CPU, la Memoria RAM y más.
+- htop: Similar al comando top, pero con una interfaz visual CLI renovada, mejorada e interactiva.
+- ps: Mostrar los procesos en ejecución en el SO en forma detallada y no interactiva.
+- kill: Eliminar procesos en ejecución, mediante el número de procesos (PID) asignado.
+- shutdown: Gestionar el SO para realizar acciones, tales como: Apagarlo, Reiniciarlo, y Detenerlo.
+- reboot: Una versión nueva y mejorada del comando shutdown, con más opciones disponibles.
+- uptime: Visualizar cuánto tiempo ha estado funcionando el SO desde el último arranque.
+- last: Mostrar una lista de inicios de sesión (de usuarios) recientes en el sistema operativo.
+
+10 Comandos para gestionar información de elementos y dispositivos de HW
+
+- lsblk: Mostrar información sobre todos los dispositivos de almacenamiento disponibles.
+- fdisk: Gestionar (crea, elimina y modifica) particiones sobre los dispositivos disponibles.
+- mount: Montar (conecta) un sistema de archivos sobre el directorio de un dispositivo existente.
+- umount: Desmontar (desconecta) un sistema de archivos gestionado con el comando umount.
+- hdparm: Administrar los parámetros de hardware de los dispositivos de discos disponibles.
+- lshw: Ver la información del HW del SO, incluida la información sobre los dispositivos actuales.
+- lsusb: Ver la información específica sobre los dispositivos USB actuales en el SO.
+- lspci: Mostrar información específica sobre los dispositivos PCI actuales en el SO.
+- lscpu: Mostrar información específica sobre el CPU utilizado en el SO y su arquitectura.
+- dmesg: Mostrar información interna gestionada por el Kernel, incluyendo la asociada al HW.
+
+14 Comandos para gestionar la información de elementos y procesos de Red
+
+- ip: Gestionar toda la información asociada a las interfaces de red, en SO modernos.
+- ifconfig: Gestionar toda la información asociada a las interfaces de red en SO antiguos.
+- iwconfig: Gestionar la información asociada a las interfaces inalámbricas de un SO.
+- nmcli: Gestionar la información de las interfaces de red vía NetworkManager.
+- wpa_cli: Gestionar la información de las interfaces de red inalámbrica vía WPASupplicant.
+- ping: Verificar la conexión actual hacia otros hosts de la red mediante el protocolo ICMP.
+- route: Gestionar la tabla de enrutamiento IP para establecer rutas estáticas hacia host y redes.
+- traceroute: Enrutar paquetes de datos de un sistema a otro host a través de una red.
+- nslookup: Comprobar la información de DNS sobre otros hosts, de forma interactiva.
+- dig: Consultar servidores de nombres DNS para solucionar problemas de DNS.
+- netstat: Ver la información sobre las conexiones de red actualmente activas en el sistema, y más.
+- iptables: Gestionar las tablas de reglas de filtrado de paquetes IPv4 e IPv6 del kernel Linux.
+- resolvctl: Gestionar nombres de dominio, direcciones IPv4 /IPv6, y registros de recursos DNS.
+- mii-tool: Gestionar el estado de la unidad de interfaz independiente de medios (MII) de una interfaz de red para negociar automáticamente la velocidad del enlace y la configuración dúplex.
+
+10 Comandos para gestionar los procesos en ejecución y su información relacionada
+
+- fg: Activar en un proceso determinado su ejecución en primer plano (foreground).
+- bg: Activar en un proceso determinado su ejecución en segundo plano (background).
+- pstree: Mostrar la lista de procesos en forma de árbol, mostrando las relaciones entre ellos.
+- nice: Establecer la prioridad de los procesos en ejecución en un SO.
+- renice: Cambiar la prioridad de los procesos, establecidas con el comando nice.
+- nohup: Ejecutar un proceso en segundo plano (background) sin verse afectado por la señal HUP.
+- disown: Desconectar los procesos que se ejecutan en segundo plano y el terminal que los ejecuta.
+- fork: Crear procesos (hijos) a partir de la duplicación de la llamada de otro proceso (padre).
+- pidfd_open: Facilitar la obtención de un descriptor de archivo que se refiera a un proceso.
+- clone: Generar procesos (hijos) de una forma similar a la usada con el comando «fork», pero con la diferencia de que, estas llamadas al sistema brindan un control más preciso sobre lo deseado.

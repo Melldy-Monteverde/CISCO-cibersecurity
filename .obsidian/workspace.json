@@ -4,26 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2c092ff4e66af56b",
+        "id": "0186c33620405c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "8308e818cfeab5ea",
+            "id": "9f91cbbeea362fe8",
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/NMAP-6_-Listado-de-comandos.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "NMAP-6_-Listado-de-comandos"
+            }
+          },
+          {
+            "id": "70b1a6e81c22c9ea",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Conceptos_básicos_de_redes/assets/Cybersecurity RoadMaop.md",
+                "file": "5.La Capa de Red.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Cybersecurity RoadMaop"
+              "title": "5.La Capa de Red"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d2bb45097e9a6be",
@@ -180,49 +194,59 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "8bcff788b625c023",
+  "active": "70b1a6e81c22c9ea",
   "lastOpenFiles": [
-    "README.md",
-    "2.Cisco_Packet_Tracer/assets/Pasted image 20251210211555.png",
-    "2.Cisco_Packet_Tracer/2.Tipos de archivos de Packet Tracer.md",
-    "2.Cisco_Packet_Tracer/1.Descargue y use cisco packet tracer.md",
-    "2.Cisco_Packet_Tracer/docs/1.1.6-packet-tracer-tutored-activity-logical-and-physical-mode-exploration-spanish.pksz",
-    "2.Cisco_Packet_Tracer/docs/Unconfirmed 326854.crdownload",
-    "2.Cisco_Packet_Tracer/assets/Pasted image 20251210211520.png",
-    "2.Cisco_Packet_Tracer/assets/Pasted image 20251210211444.png",
-    "2.Cisco_Packet_Tracer/assets/Pasted image 20251210210725.png",
-    "2.Cisco_Packet_Tracer/assets/Pasted image 20251210210616.png",
-    "2.Cisco_Packet_Tracer/assets/CiscoPacketTracer_900_win_64bit.exe",
-    "2.Cisco_Packet_Tracer/assets/Unconfirmed 399014.crdownload",
-    "3.Conceptos_básicos_de_redes/assets/Cybersecurity RoadMaop.md",
-    "3.Conceptos_básicos_de_redes/Introducción al curso.md",
-    "2.Cisco_Packet_Tracer/docs",
-    "2.Cisco_Packet_Tracer/assets",
-    "2.Cisco_Packet_Tracer",
-    "3.Conceptos_básicos_de_redes/docs",
-    "3.Conceptos_básicos_de_redes/assets",
-    "3.Conceptos_básicos_de_redes/assets/Pasted image 20251210200040.png",
-    "3.Conceptos_básicos_de_redes",
-    "1.Introducción_la_ciberseguridad/2. Ataques, conceptos y técnicas.md",
-    "1.Introducción_la_ciberseguridad/1. Introducción a la Ciberseguridad.md",
-    "1.Introducción_la_ciberseguridad/7.Examen final del curso.md",
-    "1.Introducción_la_ciberseguridad/5.¿Su futuro estará relacionado con la ciberseguridad?.md",
-    "1.Introducción_la_ciberseguridad/4.Protegiendo a la organización.md",
-    "1.Introducción_la_ciberseguridad/3.Proteja sus dispositivos y su red.md",
-    "1.Introducción_la_ciberseguridad/6.Encuesta de final del curso.md",
-    "Untitled.md",
-    "1.Introducción_la_ciberseguridad/assets/Pasted image 20251210185620.png",
-    "1.Introducción_la_ciberseguridad/docs/Pasted image 20251210184529.png",
-    "1.Introducción_la_ciberseguridad/assets/Pasted image 20251210180219.png",
-    "1.Introducción_la_ciberseguridad/assets/Pasted image 20251210173957.png",
-    "Untitled.canvas",
-    "home/lmonteverde/Documents/Obsidian.md",
-    "assets/cubo_1.svg.md",
-    "Welcome.md"
+    "Pasted image 20260306133810.png",
+    "Pasted image 20260306130232.png",
+    "Pasted image 20260306125834.png",
+    "Pasted image 20260306120517.png",
+    "Pasted image 20260306120444.png",
+    "Pasted image 20260306120436.png",
+    "Pasted image 20260305102729.png",
+    "Pasted image 20260305102615.png",
+    "Pasted image 20260305101843.png",
+    "Pasted image 20260305101829.png",
+    "Pasted image 20260305101344.png",
+    "5.La Capa de Red.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/NMAP-6_-Listado-de-comandos.pdf",
+    "Untitled",
+    "cybersecurity/Career Path - Outline.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/4.Conmutación Ethernet.md",
+    "Untitled 1.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/nmap-cheat-sheet-hackerdna.pdf",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/3.Sistemas de numeración.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/2.La Nube y virtualización.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/1.Diseño de redes.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/0.Introducción al curso.md",
+    "1.2 Diseño de Redes Jerárquico.md",
+    "cybersecurity/8.Ethical_hacker/1.Introducción_al_hacking_etico_y_pen_testing/1.0 Introducción.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial",
+    "cybersecurity/8.Ethical_hacker/recursos/OSSTMM.3.pdf",
+    "cybersecurity/8.Ethical_hacker/recursos",
+    "cybersecurity/8.Ethical_hacker/1.Introducción_al_hacking_etico_y_pen_testing/assets/Práctica_de_laboratorio-Comparación_de_metodologías_de_pruebas_de_penetración.html",
+    "cybersecurity/Indice.md",
+    "cybersecurity/8.Ethical_hacker/1.Introducción_al_hacking_etico_y_pen_testing/assets",
+    "cybersecurity/8.Ethical_hacker/1.Introducción_al_hacking_etico_y_pen_testing",
+    "cybersecurity/8.Ethical_hacker/0.Introducción_al_curso/introducción.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/17.Utilidades de prueba de red.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/16. Resumen de Servicios de la Capa de Apliación.md",
+    "().md",
+    "cybersecurity/2.Cisco_Packet_Tracer.md",
+    "cybersecurity/1.Introducción_la_ciberseguridad/1. Introducción a la Ciberseguridad.md",
+    "3.Conceptos_básicos_de_redes.md",
+    "1.Introducción a la Ciberseguridad.md",
+    "2.Cisco_Packet_Tracer.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/0.Introducción al curso.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/15. TCP y UDP.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/14. Enrutamiento Entre Redes.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/13. El proceso ARP.md",
+    "cybersecurity/3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
+    "Untitled.canvas"
   ]
 }
