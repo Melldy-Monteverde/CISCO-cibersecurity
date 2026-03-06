@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "70b1a6e81c22c9ea",
+            "id": "c7b96aa4ee88e9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.La Capa de Red.md",
+                "file": "6.Estructura de la dirección IPv4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.La Capa de Red"
+              "title": "6.Estructura de la dirección IPv4"
             }
           }
         ],
@@ -199,21 +199,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "70b1a6e81c22c9ea",
+  "active": "c7b96aa4ee88e9f6",
   "lastOpenFiles": [
-    "Pasted image 20260306133810.png",
-    "Pasted image 20260306130232.png",
-    "Pasted image 20260306125834.png",
-    "Pasted image 20260306120517.png",
-    "Pasted image 20260306120444.png",
-    "Pasted image 20260306120436.png",
-    "Pasted image 20260305102729.png",
-    "Pasted image 20260305102615.png",
-    "Pasted image 20260305101843.png",
-    "Pasted image 20260305101829.png",
-    "Pasted image 20260305101344.png",
-    "5.La Capa de Red.md",
+    "Pasted image 20260306172940.png",
+    "Pasted image 20260306172923.png",
+    "Pasted image 20260306172554.png",
+    "Pasted image 20260306172311.png",
+    "Pasted image 20260306171612.png",
+    "Pasted image 20260306171443.png",
+    "Pasted image 20260306171119.png",
     "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/NMAP-6_-Listado-de-comandos.pdf",
+    "6.Estructura de la dirección IPv4.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/5.La Capa de Red.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/Pasted image 20260306144939.png",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/Pasted image 20260306144841.png",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/Pasted image 20260306143727.png",
+    "5.La Capa de Red.md",
+    "cybersecurity/5.La Capa de Red.md",
+    "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/assets/Pasted image 20260306143411.png",
     "Untitled",
     "cybersecurity/Career Path - Outline.md",
     "cybersecurity/4.Dispositivos_de_Red_y_Configuración_Inicial/4.Conmutación Ethernet.md",
@@ -244,9 +247,6 @@
     "2.Cisco_Packet_Tracer.md",
     "cybersecurity/3.Conceptos_básicos_de_redes/0.Introducción al curso.md",
     "cybersecurity/3.Conceptos_básicos_de_redes/15. TCP y UDP.md",
-    "cybersecurity/3.Conceptos_básicos_de_redes/14. Enrutamiento Entre Redes.md",
-    "cybersecurity/3.Conceptos_básicos_de_redes/13. El proceso ARP.md",
-    "cybersecurity/3.Conceptos_básicos_de_redes/12.Puertas de enlaces a otras redes.md",
     "Untitled.canvas"
   ]
 }
